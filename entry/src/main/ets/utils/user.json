@@ -1,0 +1,16 @@
+{
+  "users":[
+    {
+      "id": "1",
+      "username": "Mico",
+      "email": "789456@qq.com",
+      "password": 123456
+    },
+    {
+      "id": "2",
+      "username": "Rose",
+      "email": "456123@qq.com",
+      "password": 123456
+    }
+  ]
+}

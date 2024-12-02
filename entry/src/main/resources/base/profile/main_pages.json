@@ -1,0 +1,21 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/CountryRegion",
+    "views/components/home/HomeSubarea_1",
+    "views/components/home/HomeBanner_1",
+    "views/Record",
+    "views/BMIcount",
+    "views/Activity",
+    "pages/MineInfoPage",
+    "views/UserCenter",
+    "pages/RegisterPage",
+    "pages/LoginPage",
+    "pages/health1",
+    "pages/health2",
+    "pages/health3",
+    "pages/gm",
+    "pages/router_second",
+    "views/shop"
+  ]
+}
