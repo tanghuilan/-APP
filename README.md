@@ -13,3 +13,5 @@
 7. 接口请求
 8. 页面跳转
 
+首页效果图：
+https://github.com/tanghuilan/-APP/blob/master/sy.png
