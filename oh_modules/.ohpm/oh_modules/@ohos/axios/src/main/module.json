@@ -1,0 +1,27 @@
+{
+	"app": {
+		"bundleName": "com.example.axios_openharmony",
+		"debug": true,
+		"versionCode": 1000000,
+		"versionName": "1.0.0",
+		"minAPIVersion": 12,
+		"targetAPIVersion": 12,
+		"apiReleaseType": "Beta1",
+		"compileSdkVersion": "5.0.0.25",
+		"compileSdkType": "OpenHarmony",
+		"appEnvironments": [],
+		"bundleType": "app"
+	},
+	"module": {
+		"name": "library",
+		"type": "har",
+		"deviceTypes": [
+			"default",
+			"tablet"
+		],
+		"installationFree": false,
+		"virtualMachine": "ark12.0.2.0",
+		"compileMode": "esmodule",
+		"dependencies": []
+	}
+}
