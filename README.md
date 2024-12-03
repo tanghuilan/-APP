@@ -22,3 +22,4 @@ https://github.com/tanghuilan/-APP/blob/master/jl.png
 购物车效果图：
 https://github.com/tanghuilan/-APP/blob/master/sc.png
 我的效果图：
+https://github.com/tanghuilan/-APP/blob/master/wd.png
