@@ -18,3 +18,5 @@ https://github.com/tanghuilan/-APP/blob/master/sy.png
 发现效果图：
 https://github.com/tanghuilan/-APP/blob/master/fx.png
 记录效果图：
+https://github.com/tanghuilan/-APP/blob/master/jl.png
+购物车效果图：
